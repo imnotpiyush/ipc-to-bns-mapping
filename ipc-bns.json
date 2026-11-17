@@ -1,0 +1,695 @@
+[
+ {
+  "ipc_section": "34",
+  "ipc_title": "Acts done by several persons in furtherance of common intention",
+  "bns_section": "3(5)",
+  "bns_title": "General explanations",
+  "notes": "Common intention is now a general explanation within BNS 3"
+ },
+ {
+  "ipc_section": "96",
+  "ipc_title": "Things done in private defence",
+  "bns_section": "34",
+  "bns_title": "Things done in private defence",
+  "notes": ""
+ },
+ {
+  "ipc_section": "107",
+  "ipc_title": "Abetment of a thing",
+  "bns_section": "45",
+  "bns_title": "Abetment of a thing",
+  "notes": ""
+ },
+ {
+  "ipc_section": "109",
+  "ipc_title": "Punishment of abetment if the act abetted is committed in consequence and where no express provision is made for its punishment",
+  "bns_section": "49",
+  "bns_title": "Punishment of abetment if act abetted is committed in consequence and where no express provision is made for its punishment",
+  "notes": ""
+ },
+ {
+  "ipc_section": "120A",
+  "ipc_title": "Definition of criminal conspiracy",
+  "bns_section": "61(1)",
+  "bns_title": "Criminal conspiracy",
+  "notes": ""
+ },
+ {
+  "ipc_section": "120B",
+  "ipc_title": "Punishment of criminal conspiracy",
+  "bns_section": "61(2)",
+  "bns_title": "Criminal conspiracy",
+  "notes": ""
+ },
+ {
+  "ipc_section": "121",
+  "ipc_title": "Waging, or attempting to wage war, or abetting waging of war, against the Government of India",
+  "bns_section": "147",
+  "bns_title": "Waging, or attempting to wage war, or abetting waging of war, against Government of India",
+  "notes": ""
+ },
+ {
+  "ipc_section": "124A",
+  "ipc_title": "Sedition",
+  "bns_section": "Not retained (deleted)",
+  "bns_title": "",
+  "notes": "Sedition not retained in BNS; BNS 152 (Acts endangering sovereignty, unity and integrity of India) is listed by NCRB as a New Section, not as a direct equivalent"
+ },
+ {
+  "ipc_section": "141",
+  "ipc_title": "Unlawful assembly",
+  "bns_section": "189(1)",
+  "bns_title": "Unlawful assembly",
+  "notes": ""
+ },
+ {
+  "ipc_section": "147",
+  "ipc_title": "Punishment for rioting",
+  "bns_section": "191(2)",
+  "bns_title": "Rioting",
+  "notes": ""
+ },
+ {
+  "ipc_section": "148",
+  "ipc_title": "Rioting, armed with deadly weapon",
+  "bns_section": "191(3)",
+  "bns_title": "Rioting",
+  "notes": ""
+ },
+ {
+  "ipc_section": "149",
+  "ipc_title": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+  "bns_section": "190",
+  "bns_title": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+  "notes": ""
+ },
+ {
+  "ipc_section": "153A",
+  "ipc_title": "Promoting enmity between different groups on ground of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony",
+  "bns_section": "196",
+  "bns_title": "Promoting enmity between different groups on ground of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony",
+  "notes": ""
+ },
+ {
+  "ipc_section": "166",
+  "ipc_title": "Public servant disobeying law, with intent to cause injury to any person",
+  "bns_section": "198",
+  "bns_title": "Public servant disobeying law, with intent to cause injury to any person",
+  "notes": ""
+ },
+ {
+  "ipc_section": "170",
+  "ipc_title": "Personating a public servant",
+  "bns_section": "204",
+  "bns_title": "Personating a public servant",
+  "notes": "Marked \"Change\" in NCRB table; relevant to \"digital arrest\" impersonation scams"
+ },
+ {
+  "ipc_section": "171",
+  "ipc_title": "Wearing garb or carrying token used by public servant with fraudulent intent",
+  "bns_section": "205",
+  "bns_title": "Wearing garb or carrying token used by public servant with fraudulent intent",
+  "notes": "Marked \"Change\" in NCRB table"
+ },
+ {
+  "ipc_section": "186",
+  "ipc_title": "Obstructing public servant in discharge of public functions",
+  "bns_section": "221",
+  "bns_title": "Obstructing public servant in discharge of public functions",
+  "notes": "Marked \"Change\" in NCRB table"
+ },
+ {
+  "ipc_section": "191",
+  "ipc_title": "Giving false evidence",
+  "bns_section": "227",
+  "bns_title": "Giving false evidence",
+  "notes": ""
+ },
+ {
+  "ipc_section": "193",
+  "ipc_title": "Punishment for false evidence",
+  "bns_section": "229",
+  "bns_title": "Punishment for false evidence",
+  "notes": "Marked \"Change\" in NCRB table"
+ },
+ {
+  "ipc_section": "201",
+  "ipc_title": "Causing disappearance of evidence of offence, or giving false information to screen offender",
+  "bns_section": "238",
+  "bns_title": "Causing disappearance of evidence of offence, or giving false information to screen offender",
+  "notes": ""
+ },
+ {
+  "ipc_section": "212",
+  "ipc_title": "Harbouring offender",
+  "bns_section": "249",
+  "bns_title": "Harbouring offender",
+  "notes": ""
+ },
+ {
+  "ipc_section": "268",
+  "ipc_title": "Public nuisance",
+  "bns_section": "270",
+  "bns_title": "Public nuisance",
+  "notes": ""
+ },
+ {
+  "ipc_section": "279",
+  "ipc_title": "Rash driving or riding on a public way",
+  "bns_section": "281",
+  "bns_title": "Rash driving or riding on a public way",
+  "notes": ""
+ },
+ {
+  "ipc_section": "299",
+  "ipc_title": "Culpable homicide",
+  "bns_section": "100",
+  "bns_title": "Culpable homicide",
+  "notes": ""
+ },
+ {
+  "ipc_section": "300",
+  "ipc_title": "Murder",
+  "bns_section": "101",
+  "bns_title": "Murder",
+  "notes": ""
+ },
+ {
+  "ipc_section": "302",
+  "ipc_title": "Punishment for murder",
+  "bns_section": "103",
+  "bns_title": "Punishment for murder",
+  "notes": "Marked \"Change\" in NCRB table"
+ },
+ {
+  "ipc_section": "304",
+  "ipc_title": "Punishment for culpable homicide not amounting to murder",
+  "bns_section": "105",
+  "bns_title": "Punishment for culpable homicide not amounting to murder",
+  "notes": "Marked \"Change\" in NCRB table"
+ },
+ {
+  "ipc_section": "304A",
+  "ipc_title": "Causing death by negligence",
+  "bns_section": "106",
+  "bns_title": "Causing death by negligence",
+  "notes": "Marked \"Change\" in NCRB table; BNS 106(2) (hit-and-run) was not brought into force on 1 July 2024 per NCRB table"
+ },
+ {
+  "ipc_section": "304B",
+  "ipc_title": "Dowry death",
+  "bns_section": "80",
+  "bns_title": "Dowry death",
+  "notes": ""
+ },
+ {
+  "ipc_section": "306",
+  "ipc_title": "Abetment of suicide",
+  "bns_section": "108",
+  "bns_title": "Abetment of suicide",
+  "notes": ""
+ },
+ {
+  "ipc_section": "307",
+  "ipc_title": "Attempt to murder",
+  "bns_section": "109",
+  "bns_title": "Attempt to murder",
+  "notes": "Marked \"Change\" in NCRB table"
+ },
+ {
+  "ipc_section": "308",
+  "ipc_title": "Attempt to commit culpable homicide",
+  "bns_section": "110",
+  "bns_title": "Attempt to commit culpable homicide",
+  "notes": ""
+ },
+ {
+  "ipc_section": "309",
+  "ipc_title": "Attempt to commit suicide",
+  "bns_section": "Not retained (deleted)",
+  "bns_title": "",
+  "notes": "Not retained in BNS per NCRB table; BNS 226 (Attempt to commit suicide to compel or restraint exercise of lawful power) is listed by NCRB as a New Section, not as a direct equivalent"
+ },
+ {
+  "ipc_section": "319",
+  "ipc_title": "Hurt",
+  "bns_section": "114",
+  "bns_title": "Hurt",
+  "notes": ""
+ },
+ {
+  "ipc_section": "320",
+  "ipc_title": "Grievous hurt",
+  "bns_section": "116",
+  "bns_title": "Grievous hurt",
+  "notes": "Marked \"Change\" in NCRB table"
+ },
+ {
+  "ipc_section": "323",
+  "ipc_title": "Punishment for voluntarily causing hurt",
+  "bns_section": "115(2)",
+  "bns_title": "Voluntarily causing hurt",
+  "notes": ""
+ },
+ {
+  "ipc_section": "324",
+  "ipc_title": "Voluntarily causing hurt by dangerous weapons or means",
+  "bns_section": "118(1)",
+  "bns_title": "Voluntarily causing hurt or grievous hurt by dangerous weapons or means",
+  "notes": "Marked \"Change\" in NCRB table"
+ },
+ {
+  "ipc_section": "325",
+  "ipc_title": "Punishment for voluntarily causing grievous hurt",
+  "bns_section": "117(2)",
+  "bns_title": "Voluntarily causing grievous hurt",
+  "notes": ""
+ },
+ {
+  "ipc_section": "326",
+  "ipc_title": "Voluntarily causing grievous hurt by dangerous weapons or means",
+  "bns_section": "118(2)",
+  "bns_title": "Voluntarily causing hurt or grievous hurt by dangerous weapons or means",
+  "notes": ""
+ },
+ {
+  "ipc_section": "332",
+  "ipc_title": "Voluntarily causing hurt to deter public servant from his duty",
+  "bns_section": "121(1)",
+  "bns_title": "Voluntarily causing hurt or grievous hurt to deter public servant from his duty",
+  "notes": "Marked \"Change\" in NCRB table"
+ },
+ {
+  "ipc_section": "337",
+  "ipc_title": "Causing hurt by act endangering life or personal safety of others",
+  "bns_section": "125(a)",
+  "bns_title": "Act endangering life or personal safety of others",
+  "notes": ""
+ },
+ {
+  "ipc_section": "338",
+  "ipc_title": "Causing grievous hurt by act endangering life or personal safety of others",
+  "bns_section": "125(b)",
+  "bns_title": "Act endangering life or personal safety of others",
+  "notes": ""
+ },
+ {
+  "ipc_section": "339",
+  "ipc_title": "Wrongful restraint",
+  "bns_section": "126(1)",
+  "bns_title": "Wrongful restraint",
+  "notes": "Marked \"Change\" in NCRB table"
+ },
+ {
+  "ipc_section": "341",
+  "ipc_title": "Punishment for wrongful restraint",
+  "bns_section": "126(2)",
+  "bns_title": "Wrongful restraint",
+  "notes": ""
+ },
+ {
+  "ipc_section": "342",
+  "ipc_title": "Punishment for wrongful confinement",
+  "bns_section": "127(2)",
+  "bns_title": "Wrongful confinement",
+  "notes": ""
+ },
+ {
+  "ipc_section": "353",
+  "ipc_title": "Assault or criminal force to deter public servant from discharge of his duty",
+  "bns_section": "132",
+  "bns_title": "Assault or criminal force to deter public servant from discharge of his duty",
+  "notes": ""
+ },
+ {
+  "ipc_section": "354",
+  "ipc_title": "Assault or criminal force to woman with intent to outrage her modesty",
+  "bns_section": "74",
+  "bns_title": "Assault or use of criminal force to woman with intent to outrage her modesty",
+  "notes": ""
+ },
+ {
+  "ipc_section": "354A",
+  "ipc_title": "Sexual harassment and punishment for sexual harassment",
+  "bns_section": "75",
+  "bns_title": "Sexual harassment",
+  "notes": ""
+ },
+ {
+  "ipc_section": "354B",
+  "ipc_title": "Assault or use of criminal force to woman with intent to disrobe",
+  "bns_section": "76",
+  "bns_title": "Assault or use of criminal force to woman with intent to disrobe",
+  "notes": "Marked \"Change\" in NCRB table"
+ },
+ {
+  "ipc_section": "354C",
+  "ipc_title": "Voyeurism",
+  "bns_section": "77",
+  "bns_title": "Voyeurism",
+  "notes": "Marked \"Change\" in NCRB table"
+ },
+ {
+  "ipc_section": "354D",
+  "ipc_title": "Stalking",
+  "bns_section": "78",
+  "bns_title": "Stalking",
+  "notes": ""
+ },
+ {
+  "ipc_section": "359",
+  "ipc_title": "Kidnapping",
+  "bns_section": "137(1)",
+  "bns_title": "Kidnapping",
+  "notes": ""
+ },
+ {
+  "ipc_section": "362",
+  "ipc_title": "Abduction",
+  "bns_section": "138",
+  "bns_title": "Abduction",
+  "notes": ""
+ },
+ {
+  "ipc_section": "363",
+  "ipc_title": "Punishment for kidnapping",
+  "bns_section": "137(2)",
+  "bns_title": "Kidnapping",
+  "notes": ""
+ },
+ {
+  "ipc_section": "364A",
+  "ipc_title": "Kidnapping for ransom, etc",
+  "bns_section": "140(2)",
+  "bns_title": "Kidnapping or abducting in order to murder or for ransom etc",
+  "notes": ""
+ },
+ {
+  "ipc_section": "366",
+  "ipc_title": "Kidnapping, abducting or inducing woman to compel her marriage, etc",
+  "bns_section": "87",
+  "bns_title": "Kidnapping, abducting or inducing woman to compel her marriage, etc",
+  "notes": ""
+ },
+ {
+  "ipc_section": "375",
+  "ipc_title": "Rape",
+  "bns_section": "63",
+  "bns_title": "Rape",
+  "notes": ""
+ },
+ {
+  "ipc_section": "376",
+  "ipc_title": "Punishment for rape",
+  "bns_section": "64",
+  "bns_title": "Punishment for rape",
+  "notes": ""
+ },
+ {
+  "ipc_section": "376D",
+  "ipc_title": "Gang rape",
+  "bns_section": "70(1)",
+  "bns_title": "Gang rape",
+  "notes": ""
+ },
+ {
+  "ipc_section": "377",
+  "ipc_title": "Unnatural Offences",
+  "bns_section": "Not retained (deleted)",
+  "bns_title": "",
+  "notes": "Not retained in BNS per NCRB table"
+ },
+ {
+  "ipc_section": "378",
+  "ipc_title": "Theft",
+  "bns_section": "303(1)",
+  "bns_title": "Theft",
+  "notes": "Marked \"Change\" in NCRB table"
+ },
+ {
+  "ipc_section": "379",
+  "ipc_title": "Punishment for theft",
+  "bns_section": "303(2)",
+  "bns_title": "Theft",
+  "notes": "Marked \"Change\" in NCRB table"
+ },
+ {
+  "ipc_section": "380",
+  "ipc_title": "Theft in dwelling house, etc",
+  "bns_section": "305",
+  "bns_title": "Theft in a dwelling house, or means of transportation or place of worship, etc",
+  "notes": "Marked \"Change\" in NCRB table"
+ },
+ {
+  "ipc_section": "383",
+  "ipc_title": "Extortion",
+  "bns_section": "308(1)",
+  "bns_title": "Extortion",
+  "notes": ""
+ },
+ {
+  "ipc_section": "384",
+  "ipc_title": "Punishment for extortion",
+  "bns_section": "308(2)",
+  "bns_title": "Extortion",
+  "notes": ""
+ },
+ {
+  "ipc_section": "390",
+  "ipc_title": "Robbery",
+  "bns_section": "309(1)",
+  "bns_title": "Robbery",
+  "notes": ""
+ },
+ {
+  "ipc_section": "392",
+  "ipc_title": "Punishment for robbery",
+  "bns_section": "309(4)",
+  "bns_title": "Robbery",
+  "notes": ""
+ },
+ {
+  "ipc_section": "395",
+  "ipc_title": "Punishment for dacoity",
+  "bns_section": "310(2)",
+  "bns_title": "Dacoity",
+  "notes": ""
+ },
+ {
+  "ipc_section": "403",
+  "ipc_title": "Dishonest misappropriation of property",
+  "bns_section": "314",
+  "bns_title": "Dishonest misappropriation of property",
+  "notes": "Marked \"Change\" in NCRB table"
+ },
+ {
+  "ipc_section": "405",
+  "ipc_title": "Criminal breach of trust",
+  "bns_section": "316(1)",
+  "bns_title": "Criminal breach of trust",
+  "notes": "Marked \"Change\" in NCRB table"
+ },
+ {
+  "ipc_section": "406",
+  "ipc_title": "Punishment for criminal breach of trust",
+  "bns_section": "316(2)",
+  "bns_title": "Criminal breach of trust",
+  "notes": ""
+ },
+ {
+  "ipc_section": "409",
+  "ipc_title": "Criminal breach of trust by public servant, or by banker, merchant or agent",
+  "bns_section": "316(5)",
+  "bns_title": "Criminal breach of trust",
+  "notes": ""
+ },
+ {
+  "ipc_section": "411",
+  "ipc_title": "Dishonestly receiving stolen property",
+  "bns_section": "317(2)",
+  "bns_title": "Stolen property",
+  "notes": ""
+ },
+ {
+  "ipc_section": "415",
+  "ipc_title": "Cheating",
+  "bns_section": "318(1)",
+  "bns_title": "Cheating",
+  "notes": "Marked \"Change\" in NCRB table"
+ },
+ {
+  "ipc_section": "416",
+  "ipc_title": "Cheating by personation",
+  "bns_section": "319(1)",
+  "bns_title": "Cheating by personation",
+  "notes": ""
+ },
+ {
+  "ipc_section": "417",
+  "ipc_title": "Punishment for cheating",
+  "bns_section": "318(2)",
+  "bns_title": "Cheating",
+  "notes": ""
+ },
+ {
+  "ipc_section": "419",
+  "ipc_title": "Punishment of cheating by personation",
+  "bns_section": "319(2)",
+  "bns_title": "Cheating by personation",
+  "notes": ""
+ },
+ {
+  "ipc_section": "420",
+  "ipc_title": "Cheating and dishonestly inducing delivery of property",
+  "bns_section": "318(4)",
+  "bns_title": "Cheating",
+  "notes": "Commonly cited in cheating/online fraud FIRs"
+ },
+ {
+  "ipc_section": "425",
+  "ipc_title": "Mischief",
+  "bns_section": "324(1)",
+  "bns_title": "Mischief",
+  "notes": "Marked \"Change\" in NCRB table"
+ },
+ {
+  "ipc_section": "426",
+  "ipc_title": "Punishment for mischief",
+  "bns_section": "324(2)",
+  "bns_title": "Mischief",
+  "notes": ""
+ },
+ {
+  "ipc_section": "441",
+  "ipc_title": "Criminal trespass",
+  "bns_section": "329(1)",
+  "bns_title": "Criminal trespass and house-trespass",
+  "notes": "Marked \"Change\" in NCRB table"
+ },
+ {
+  "ipc_section": "447",
+  "ipc_title": "Punishment for criminal trespass",
+  "bns_section": "329(3)",
+  "bns_title": "Criminal trespass and house-trespass",
+  "notes": ""
+ },
+ {
+  "ipc_section": "448",
+  "ipc_title": "Punishment for house-trespass",
+  "bns_section": "329(4)",
+  "bns_title": "Criminal trespass and house-trespass",
+  "notes": ""
+ },
+ {
+  "ipc_section": "463",
+  "ipc_title": "Forgery",
+  "bns_section": "336(1)",
+  "bns_title": "Forgery",
+  "notes": ""
+ },
+ {
+  "ipc_section": "465",
+  "ipc_title": "Punishment for forgery",
+  "bns_section": "336(2)",
+  "bns_title": "Forgery",
+  "notes": ""
+ },
+ {
+  "ipc_section": "467",
+  "ipc_title": "Forgery of valuable security, will, etc",
+  "bns_section": "338",
+  "bns_title": "Forgery of valuable security, will, etc",
+  "notes": ""
+ },
+ {
+  "ipc_section": "468",
+  "ipc_title": "Forgery for purpose of cheating",
+  "bns_section": "336(3)",
+  "bns_title": "Forgery",
+  "notes": ""
+ },
+ {
+  "ipc_section": "471",
+  "ipc_title": "Using as genuine a forged document or electronic record",
+  "bns_section": "340(2)",
+  "bns_title": "Forged document or electronic record and using it as genuine",
+  "notes": ""
+ },
+ {
+  "ipc_section": "494",
+  "ipc_title": "Marrying again during lifetime of husband or wife",
+  "bns_section": "82(1)",
+  "bns_title": "Marrying again during lifetime of husband or wife",
+  "notes": ""
+ },
+ {
+  "ipc_section": "497",
+  "ipc_title": "Adultery",
+  "bns_section": "Not retained (deleted)",
+  "bns_title": "",
+  "notes": "Not retained in BNS per NCRB table"
+ },
+ {
+  "ipc_section": "498A",
+  "ipc_title": "Husband or relative of husband of a woman subjecting her to cruelty",
+  "bns_section": "85",
+  "bns_title": "Husband or relative of husband of a woman subjecting her to cruelty",
+  "notes": "BNS 86 defines cruelty (Explanation to IPC 498A)"
+ },
+ {
+  "ipc_section": "499",
+  "ipc_title": "Defamation",
+  "bns_section": "356(1)",
+  "bns_title": "Defamation",
+  "notes": "Marked \"Change\" in NCRB table"
+ },
+ {
+  "ipc_section": "500",
+  "ipc_title": "Punishment for defamation",
+  "bns_section": "356(2)",
+  "bns_title": "Defamation",
+  "notes": ""
+ },
+ {
+  "ipc_section": "503",
+  "ipc_title": "Criminal intimidation",
+  "bns_section": "351(1)",
+  "bns_title": "Criminal intimidation",
+  "notes": ""
+ },
+ {
+  "ipc_section": "504",
+  "ipc_title": "Intentional insult with intent to provoke breach of the peace",
+  "bns_section": "352",
+  "bns_title": "Intentional insult with intent to provoke breach of peace",
+  "notes": ""
+ },
+ {
+  "ipc_section": "506",
+  "ipc_title": "Punishment for criminal intimidation",
+  "bns_section": "351(2), 351(3)",
+  "bns_title": "Criminal intimidation",
+  "notes": ""
+ },
+ {
+  "ipc_section": "509",
+  "ipc_title": "Word, gesture or act intended to insult the modesty of a woman",
+  "bns_section": "79",
+  "bns_title": "Word, gesture or act intended to insult modesty of a woman",
+  "notes": ""
+ },
+ {
+  "ipc_section": "510",
+  "ipc_title": "Misconduct in public by a drunken person",
+  "bns_section": "355",
+  "bns_title": "Misconduct in public by a drunken person",
+  "notes": "Marked \"Change\" in NCRB table"
+ },
+ {
+  "ipc_section": "511",
+  "ipc_title": "Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment",
+  "bns_section": "62",
+  "bns_title": "Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment",
+  "notes": ""
+ }
+]
